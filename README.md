@@ -3,7 +3,16 @@
 
  Projects 
 <ol>
-    <li> Pizza Menu </li>
-    <li> Tic-Tac-Toe Game </li>
-    <li> Calculator </li>
+    <li> <a href="https://github.com/Mstewart93/PizzaOrder">Pizza Menu </a> </li>
+    <li> <a href="https://github.com/Mstewart93/Tic-Tac-Toe">Tic-Tac-Toe Game</a> </li>
+    <li> <a href="https://github.com/Mstewart93/Calculator"> Calculator </a></li>
 </ol>
+
+<h5>Pizza Menu</h5>
+<p></p>
+
+<h5>Tic-Tac-Toe Game</h5>
+<p></p>
+
+<h5>Calculator</h5>
+<p></p>
